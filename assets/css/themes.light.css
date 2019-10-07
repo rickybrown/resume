@@ -7,7 +7,7 @@
 /* Body */
 body {
   background: #fff;
-  color: #939393;
+  color: #777777;
 }
 
 /* Heading */
@@ -81,7 +81,7 @@ hr,
 
 /* Brand Colors */
 .t-title__first-word {
-  color: #939393;
+  color: #777777;
 }
 
 .t-title__second-word {
@@ -89,7 +89,7 @@ hr,
 }
 
 .t-sub-title {
-  color: #939393;
+  color: #777777;
 }
 
 /* Brand Typography */
