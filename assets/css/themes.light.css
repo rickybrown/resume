@@ -2,7 +2,7 @@
  * THEMES.LIGHT
  */
 
- /* original color yellow: 3b5998 */
+ /* original color yellow: 193063 */
 
 /* Body */
 body {
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #3b5998; /* #727272; */
+  color: #193063; /* #727272; */
 }
 
 /* Link Container */
@@ -40,7 +40,7 @@ h6 {
 a,
 .t-link-container .t-link-container__item,
 .t-link-container:hover .t-link-container__item--blended {
-  color: #3b5998;
+  color: #193063;
 }
 
 /* Hover Links */
@@ -65,18 +65,18 @@ hr,
 /* Primary Color */
 .t-primary-color,
 .t-primary-color-line {
-  color: #3b5998;
+  color: #193063;
 }
 
 .t-primary-bg,
 .t-primary-color-line {
-  background: #3b5998;
+  background: #193063;
 }
 
 /* Preloader */
 .t-preloader__spinner:not(:required):before {
-  border-top-color: #3b5998;
-  border-bottom-color: #3b5998;
+  border-top-color: #193063;
+  border-bottom-color: #193063;
 }
 
 /* Brand Colors */
@@ -85,7 +85,7 @@ hr,
 }
 
 .t-title__second-word {
-  color: #3b5998;
+  color: #193063;
 }
 
 .t-sub-title {
@@ -134,7 +134,7 @@ hr,
 }
 
 .t-social-button:hover .fa {
-  color: #3b5998;
+  color: #193063;
 }
 
 /* Image Overlay */
